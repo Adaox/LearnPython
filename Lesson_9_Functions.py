@@ -1,5 +1,5 @@
-# calculator take an input of your weight in kgs or lbs
-# return your weight in pounds or kgs
+# calculator take an input of your weight in Kilograms or Pounds
+# return your weight in Pounds or Kilograms
 
 
 def weight_conversion_ptk(weight):
